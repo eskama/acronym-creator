@@ -1,6 +1,6 @@
 # Acronym Creator
 
-Simple acronym creator which takes inputs and print out the random result.
+Simple acronym creator which takes inputs and prints out random results.
 
     Important!: Only supports English characters.
 
