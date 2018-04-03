@@ -6,7 +6,7 @@ Simple acronym creator which takes inputs and print out the random result.
 
 ## Importance
 
-The origin of [**ESKAMA**](www.github.com/eskama).
+The origin of [**ESKAMA**](https://www.github.com/eskama/).
 
 ## Getting Started
 
