@@ -23,6 +23,6 @@ The application takes 4 inputs:
    2) Additional Characters: which will be added to acronym randomly. Default value: `aeiou`
 
    3) Random factor: shows how many empty character ('') will be used in random selection. When increases, selection
-   probability of given names will decrease. Default value: `3`
+   probability of given additional characters will decrease. Default value: `3`
 
    4) Roll number: How many acronym will be created. Default value: `10`
