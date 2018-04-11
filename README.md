@@ -18,19 +18,11 @@ The origin of [**ESKAMA**](https://www.github.com/eskama/).
 ### Running
 
 The application takes 4 inputs:
-   1) Names: which will be used to create acronym. Default value:
+   1) Names: which will be used to create acronym. Default value: `svgmrt`
 
-    svgmrt
-
-   2) Additional Characters: which will be added to acronym randomly. Default value:
-
-    aeiou
+   2) Additional Characters: which will be added to acronym randomly. Default value: `aeiou`
 
    3) Random factor: shows how many empty character ('') will be used in random selection. When increases, selection
-   probability of given names will decrease. Default value:
+   probability of given names will decrease. Default value: `3`
 
-    3
-
-   4) Roll number: How many acronym will be created. Default value:
-
-    10
+   4) Roll number: How many acronym will be created. Default value: `10`
